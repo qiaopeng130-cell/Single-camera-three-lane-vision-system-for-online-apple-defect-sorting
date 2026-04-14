@@ -9,14 +9,18 @@
 
 <p align="justify">Experiments on the custom apple defect dataset showed that MOD-DETR achieved a mAP@50 of 86.7%, 1.5 percentage points higher than that of the baseline model, while reducing GFLOPs by 29.4 and increasing inference speed by 23.8 fps.</p>
 
-<p align="justify">In sorting scenario, the ASORT tracker achieved a MOTA of 97.8% and an IDF1 of 98.9%; in continuous sorting tests on the entire machine, the system’s overall grading accuracy reached 92.5%.</p>
+<p align="justify">In sorting scenario, the ASORT tracker achieved a MOTA of 97.8% and an IDF of 98.9%; in continuous sorting tests on the entire machine, the system’s overall grading accuracy reached 92.5%.</p>
 
 <p align="justify">The results indicate that the proposed method integrates visual perception, target association and rejection control, providing technical support for apple sorting in small and medium-sized orchards.</p>
+
+<p align="justify">The full source code will be released upon acceptance of the paper.</p>
+
+<br>
+
+### Demo Video
 <video width="100%" controls>
-  <source src="Video1.mp4" type="video/mp4">
-</video>
-<video width="100%" controls>
-  <source src="video2.mp4" type="video/mp4">
+  <source src="demo1.mp4" type="video/mp4">
+  Your browser does not support video playback.
 </video>
 
 
