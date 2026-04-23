@@ -5,7 +5,7 @@ The work focuses on three tightly coupled components:
     1.defect detection
     2.target association / tracking
     3.trajectory-level sorting decision-making
-To address long-range defect detection and false rejections caused by single-frame decisions, we propose:
+To address long-range defect detection and false rejections caused by single-frame decisions, This research propose:
 
 * MOD-DETR for apple defect detection
 * ASORT for lightweight target tracking in constrained sorting scenarios
