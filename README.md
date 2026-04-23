@@ -62,33 +62,19 @@ A partial version of the dataset is currently available for review:
 
 # Planned Release Contents
 The full public release will include the following modules:
-
 Apple-defect-sorting/
-
 ├─ datasets/
-
 ├─ configs/
-
 ├─ models/
-
 │  ├─ mod_detr/
-
 │  └─ asort/
-
 ├─ tools/
-
 │  ├─ train.py
-
 │  ├─ test.py
-
 │  ├─ track.py
-
 │  └─ sort_demo.py
-
 ├─ checkpoints/
-
 ├─ docs/
-
 └─ README.md
 
 # Reproducibility
