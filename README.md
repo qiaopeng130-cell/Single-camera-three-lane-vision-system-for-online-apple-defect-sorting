@@ -90,9 +90,9 @@ The reproducibility package will include:
 * pretrained checkpoints
 
 # Media Coverage
-This project has also been covered by industry media:
+* This project has also been covered by industry media:
 https://v.douyin.com/6EQBNfSZf1Q/
-Equipment video:
+* Equipment video:
 [![Demo Video]](./video2.mp4)
 [![Demo Video]](./Video1.mp4)
 
