@@ -63,18 +63,19 @@ A partial version of the dataset is currently available for review:
 The full public release will include the following modules:
 ```text
 Apple-defect-sorting/
-|-- datasets/
-|-- configs/
-|-- models/
+|-- Datasets/
+|-- Configs/
+|-- Models/
 |   |-- mod_detr/
 |   `-- asort/
-|-- tools/
+|-- Tools/
 |   |-- train.py
 |   |-- test.py
 |   |-- track.py
 |   `-- sort_demo.py
-|-- checkpoints/
-|-- docs/
+|-- Checkpoints/
+|-- UI/
+|-- Docs/
 `-- README.md
 ```
 
