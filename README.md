@@ -2,11 +2,10 @@
 # Overview
 This repository presents a compact in-field intelligent apple sorting system designed for small and medium-sized orchards, based on a single-camera, three-lane architecture.
 The work focuses on three tightly coupled components:
-    1.defect detection
-    2.target association / tracking
-    3.trajectory-level sorting decision-making
+* defect detection
+* target association / tracking
+* trajectory-level sorting decision-making
 To address long-range defect detection and false rejections caused by single-frame decisions, This research propose:
-
 * MOD-DETR for apple defect detection
 * ASORT for lightweight target tracking in constrained sorting scenarios
 * a trajectory-level multi-frame defect confirmation strategy for reducing instantaneous false positives
