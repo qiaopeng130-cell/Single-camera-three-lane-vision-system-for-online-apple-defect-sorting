@@ -57,7 +57,6 @@ A partial version of the dataset is currently available for review:
 
 # Notes
 * The project is still ongoing.
-* The full dataset is not yet publicly released.
 * The currently shared dataset is only a partial subset for review purposes.
 
 # Planned Release Contents
