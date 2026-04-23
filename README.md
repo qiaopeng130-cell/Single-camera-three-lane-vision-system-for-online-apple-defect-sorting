@@ -61,21 +61,25 @@ A partial version of the dataset is currently available for review:
 * The currently shared dataset is only a partial subset for review purposes.
 
 # Planned Release Contents
+## Planned Release Contents
+
 The full public release will include the following modules:
+```text
 Apple-defect-sorting/
-├─ datasets/
-├─ configs/
-├─ models/
-│  ├─ mod_detr/
-│  └─ asort/
-├─ tools/
-│  ├─ train.py
-│  ├─ test.py
-│  ├─ track.py
-│  └─ sort_demo.py
-├─ checkpoints/
-├─ docs/
-└─ README.md
+|-- datasets/
+|-- configs/
+|-- models/
+|   |-- mod_detr/
+|   `-- asort/
+|-- tools/
+|   |-- train.py
+|   |-- test.py
+|   |-- track.py
+|   `-- sort_demo.py
+|-- checkpoints/
+|-- docs/
+`-- README.md
+```
 
 # Reproducibility
 The reproducibility package will include:
