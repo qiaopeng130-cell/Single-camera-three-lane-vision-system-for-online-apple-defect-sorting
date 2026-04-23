@@ -93,8 +93,8 @@ The reproducibility package will include:
 * This project has also been covered by industry media:
 https://v.douyin.com/6EQBNfSZf1Q/
 * Equipment video:
-[![Demo Video]](./video2.mp4)
-[![Demo Video]](./Video1.mp4)
+[[Demo Video]](./video2.mp4)
+[[Demo Video]](./Video1.mp4)
 
 # Contact
 For questions regarding the dataset or code release, please contact the authors through the paper submission system or the repository issues page after public release.
